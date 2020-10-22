@@ -593,7 +593,7 @@
                     ></div>
                     <div
                       id="debug_window_test"
-                      style="height:400px;width:100%;overflow-y:scroll;"
+                      style="height:42px;width:100%;overflow-y:scroll;"
                       class="body-1"
                       v-html="debug.join('')"
                     ></div>
