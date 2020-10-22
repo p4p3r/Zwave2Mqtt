@@ -591,6 +591,12 @@
                       class="body-1"
                       v-html="debug.join('')"
                     ></div>
+                    <div
+                      id="debug_window_test"
+                      style="height:400px;width:100%;overflow-y:scroll;"
+                      class="body-1"
+                      v-html="debug.join('')"
+                    ></div>
                   </v-flex>
                 </v-layout>
               </v-container>
